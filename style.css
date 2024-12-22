@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 110, 110);
+    margin: 0; /* אפס מרווחים מסביב לדף */
+    height: 100vh; /* גובה מלא של הדף */
+    display: flex; /* שימוש ב-Flexbox */
+    justify-content: center; /* מרכז אופקית */
+    align-items: center; /* מרכז אנכית */
+    font-family: "Sour Gummy", serif;
+    text-align: center;
+}
+
+.d {
+    width: 25%;
+    height: 500px;
+    box-shadow: 0px 0px 18px 0px black;
+    border-radius: 10%;
+    background-color: rgb(0, 147, 93);
+}
